@@ -1,6 +1,6 @@
 # Business Understanding
 
-A client is planning to buy a residential property in Mumbai,India.  The client wishes to explore the different areas of Mumbai before buying a residential property.This project will aid in exploring the area as well as show the average price/sqft in the particular area. Similar areas will also be shown to the client.
+A client is planning to buy a residential property in Mumbai,India.  The client wishes to explore the different areas of Mumbai before buying a residential property.This project will aid in exploring the area as well as show the average price/sqft in the particular area. Area with similar trend in the venues will also be shown to the client.
 
 The Location:
 Mumbai is the dream city of India. It houses the film industry and is also the financial hub of India. As a result, every year people shift to Mumbai from various parts of India and this project will cater to many clients.
