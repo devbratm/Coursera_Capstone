@@ -14,4 +14,4 @@ Using credentials of Foursquare API features of near-by places of the neighborho
 Clustering Approach:
 To compare the similarities of neigbourhoods or areas, we decided to explore neighborhoods, segment them, and group them into clusters. To be able to do that, we need to cluster data which is a form of unsupervised machine learning: k-means clustering algorithm.
 
-The dataset of the areas in Mumbai with their corresponsing prices/sqft will be sourced from https://www.99acres.com/property-rates-and-price-trends-in-mumbai .
+The dataset of the areas in Mumbai with their corresponding prices/sqft will be sourced from https://www.99acres.com/property-rates-and-price-trends-in-mumbai .
