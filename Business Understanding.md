@@ -12,6 +12,6 @@ Work Flow:
 Using credentials of Foursquare API features of near-by places of the neighborhoods would be mined. Due to http request limitations the number of places per neighborhood parameter would reasonably be set to 100 and the radius parameter would be set to 500.
 
 Clustering Approach:
-To compare the similarities of neigbourhoods or areas, we decided to explore neighborhoods, segment them, and group them into clusters. To be able to do that, we need to cluster data which is a form of unsupervised machine learning: k-means clustering algorithm.
+To compare the similarities of neigbourhoods or areas, we decided to explore neighborhoods, segment them, and group them into clusters. To be able to do that, we need to cluster data which is a form of unsupervised machine learning.
 
 The dataset of the areas in Mumbai with their corresponding prices/sqft will be sourced from https://www.99acres.com/property-rates-and-price-trends-in-mumbai .
